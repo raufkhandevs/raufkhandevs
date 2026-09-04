@@ -84,6 +84,5 @@ Simplifying your Shopify Stores with No Code AI Agent to Handle Queries.
 
 <p align="left">
   <a href="https://github.com/raufkhandevs"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" /></a>
-  <a href="https://www.linkedin.com/in/rauf-khan-674340387/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:khanrauf.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
